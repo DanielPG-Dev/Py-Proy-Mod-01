@@ -68,7 +68,7 @@ def main():
     
 show_menu()
 show_catalog()
-print("\n")    
+print("\n")     
 add_order_to_file(
     "01-05-2025 10:59:50",
     [{
